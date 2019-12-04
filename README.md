@@ -1,2 +1,4 @@
-# AppG4
-Đây là dự án dành cho nhóm 4 năm học 2019 - 2020
+Tên: Hồ Đăng Hiếu
+Mã SV: 16T1021042
+Lớp: K40B
+Môn: Xây dựng ứng dụng với .NET FrameWork - Nhóm 4
